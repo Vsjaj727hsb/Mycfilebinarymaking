@@ -42,7 +42,7 @@ void *udp_flood(void *arg) {
     if (sockfd < 0) {
         perror("Socket creation failed");
         pthread_exit(NULL);
-    } #DILSESHARPCRACKS 
+    } #GODxCHEATS 
 
     // Optimize socket buffer size for sending large quantities of packets
     int optval = 1 << 20; // 1 MB buffer
@@ -74,7 +74,7 @@ void *udp_flood(void *arg) {
                 break;
             }
         }
-    } #DILSESHARPCRACKS 
+    } #GODxCHEATS 
 
 
     close(sockfd);
@@ -121,5 +121,5 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 
-#MADEBYSHARP
-#CP CLAIM 2020-2024, THIS C FILE FORM SHARP AND FUCK OFF COPY PASTERS AND FUCK MY HEATERS......
+#MADEBYGODxCHEATS
+#CP CLAIM 2020-2024, THIS C FILE MADE GODxCHEATS ALONEBOY FUCK YOU COPY PASTER.......
